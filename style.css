@@ -1,3 +1,10 @@
 body {
-  background-color: red;
+  background: url(...);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: block;
+  opacity: 0.5;
 }
